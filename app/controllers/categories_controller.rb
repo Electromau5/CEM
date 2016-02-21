@@ -26,15 +26,16 @@ class CategoriesController < ApplicationController
 	end
 
 	def update
-			if @category.update
-				redirect_to category_path(category)
+			if @category.update(category_params)
+				redirect_to category_path(@category)
 		else
 			render 'edit'
 		end
 	end
 
 	def delete
-
+		@category.destroy
+		redirect_to categories_path
 	end
 
 private
