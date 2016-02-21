@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   root 'pages#landing'
 
   get 'pages/hiw'
+  resources :categories
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
