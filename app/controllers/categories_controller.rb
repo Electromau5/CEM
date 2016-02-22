@@ -19,6 +19,7 @@ class CategoriesController < ApplicationController
 
 	def show
 		@divisions = Category.all
+		@category_posts = @category.posts
 	end
 
 	def edit
@@ -26,14 +27,14 @@ class CategoriesController < ApplicationController
 	end
 
 	def update
-			if @category.update(category_params)
+		if @category.update(category_params)
 				redirect_to category_path(@category)
 		else
 			render 'edit'
 		end
 	end
 
-	def delete
+	def destroy
 		@category.destroy
 		redirect_to categories_path
 	end
