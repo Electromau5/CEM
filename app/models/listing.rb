@@ -1,4 +1,5 @@
 class Listing < ActiveRecord::Base
+	validates :name, length: { minimum: 10, maximum: 40 } 
 	validates :name, :description, :price, :condition, presence: true
 	has_attached_file :image, styles: { medium: ["300x300>", :jpg, :quality => 70], thumb: 
   	                ["100x100>", :jpg, :quality => 70],  large:  
