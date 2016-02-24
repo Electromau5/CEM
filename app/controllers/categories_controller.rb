@@ -19,7 +19,6 @@ class CategoriesController < ApplicationController
 
 	def show
 		@divisions = Category.all
-		@category_posts = @category.posts
 	end
 
 	def edit

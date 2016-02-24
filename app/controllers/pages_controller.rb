@@ -1,7 +1,8 @@
 class PagesController < ApplicationController
-  def landing
-  end
+	
+	def landing
+	end
 
-  def hiw
-  end
+	def hiw
+	end
 end
