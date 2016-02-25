@@ -33,14 +33,21 @@ p
 	padding : 9px;
 	background-color: #d8d8d8;
 	margin: 0px -4px -4px -4px;
-	font-family: 'PayToneOne', sans-serif;
+	font-family: "Raleway-Medium", sans-serif;
 	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
 }
 .thumbnail
 {
   border-radius: 0;
   margin-bottom: -5px;
   border: 1px solid #666999;
+}
+.jumbotron
+{
+	padding-left: 500px;
+	padding-right: 400px;
 }
 .col-md-3
 {
@@ -103,8 +110,8 @@ button
 }
 .listing_set_1
 {
-	font-weight: bold;
-	font-size: 30px;
+	//font-weight: bold;
+	font-size: 22px;
 	font-family: Helvetica,Arial, sans-serif;
 	/*display: -webkit-inline-box;*/
 }

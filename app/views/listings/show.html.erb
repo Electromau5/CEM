@@ -1,29 +1,36 @@
  <%= render 'layouts/header' %> 
-<div class = "container-fluid">
+<div class = "container">
 	<div class = "jumbotron">
 		<div class = "row">
-			<div class = "listing_set_1">
-				<div class = "col-md-12">
-					<div class = "col-md-3">
-						<%= @listing.name %>
-					</div>
-						<div class = "col-md-2"> 	
-							<span class = "label label-info">
-								<%= number_to_currency(@listing.price) %>
-							</span>
+			<div class = "col-md-6">
+						<%= image_tag @listing.image.url(:medium) %>
+			</div>
+				<div class = "col-md-6">
+					<div class = "listing_set_1">
+						<div class="title" style="font-weight:bold;font-size:20px">
+							Product Name: <br/>
 						</div>
-							<div class = "col-md-3">
-								<%= @listing.condition %>
+							<div clas="fill" style="font-size:18px">
+								<%= @listing.name %><br /><br />
 							</div>
+									<div class="title" style="font-weight:bold;font-size:20px">
+										Condition: <br />
+									</div>
+										<div clas="fill" style="font-size:15px">
+											<%= @listing.condition %>
+										</div><br />
+						</div>
+							<div class="title" style="font-weight:bold;font-size:20px">
+								Features: <br/>
+							</div>
+							<%= @listing.feature1 %><br /><br />
+							<%= @listing.feature2 %><br /><br />
+							<%= @listing.feature3 %><br /><br />
+								<span class = "label label-info" style="font-size:25px;background-color:#008ac1;padding:6px">
+									<%= number_to_currency(@listing.price) %>
+								</span><br /><br />
+					
 				</div>
 			</div>
-				<div class = "col-md-12">
-					<div class = "col-md-4">
-						<%= image_tag @listing.image.url(:medium) %>
-					</div>
-						<div class = "col-md-4">
-							<%= @listing.description %>
-						</div>
-				</div>
+		</div>
 	</div>
-</div>
