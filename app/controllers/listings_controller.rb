@@ -40,6 +40,6 @@ end
 private
 	def set_listings
 		params.require(:listing).permit(:name, :feature1, :feature2, :feature3, :price, :condition, :image, :image2, :image3,
-			:image4, :image5)
+			:image4, :image5, :site)
 	end
 end
