@@ -1,4 +1,5 @@
 $ ->
 	#$(".zoom").imagesLoaded ->
-		$(".zoom").elevateZoom();
-			
+		$(".zoom").elevateZoom({
+				zoomWindowPosition: 2
+		});
