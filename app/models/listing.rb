@@ -5,5 +5,4 @@ class Listing < ActiveRecord::Base
   	                ["100x100>", :jpg, :quality => 70],  large:  
   	                ['1000>', :jpg, :quality => 70] }
   	validates_attachment_content_type :image, :content_type => ["image/jpg", "image/jpeg", "image/png", "image/gif"]
-    
 end

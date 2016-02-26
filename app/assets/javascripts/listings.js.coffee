@@ -1,0 +1,4 @@
+$ ->
+	#$(".zoom").imagesLoaded ->
+		$(".zoom").elevateZoom();
+			

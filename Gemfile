@@ -16,6 +16,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
 gem 'paperclip', '~> 4.3', '>= 4.3.3'
+#gem 'image_zoomer'
+gem 'elevatezoom-rails'
 
 group :development, :test do
   gem 'sqlite3'
