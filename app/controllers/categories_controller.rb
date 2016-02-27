@@ -19,6 +19,7 @@ class CategoriesController < ApplicationController
 
 	def show
 		@divisions = Category.all
+		@category_listings = @category.listings
 	end
 
 	def edit

@@ -39,9 +39,10 @@
 									<span class = "label label-info" style="font-size:25px;background-color:#008ac1;padding:6px">
 										<%= number_to_currency(@listing.price) %>
 									</span><br /><br />
-								This item can be bought <%= link_to 'here', "http://#{@listing.site}" %>
+								This item can be bought <%= link_to 'here', "#{@listing.site}" %>
 				   </div>
 			</div>
 		</div>
 	</div>
+  <%= render 'layouts/footer' %>
 	
