@@ -14,10 +14,12 @@
 	font-family: 'typographica', sans-serif;
 	font-size: 18.8px;
 }
-body
-{
-	background-color: #F5F5F5;
+
+body 
+{ 
+	background-color: #F5F5F5; 
 }
+
 a
 {
 	font-size: 15px;
@@ -37,6 +39,11 @@ p
 	text-align: center;
 	font-size: 13px;
 	font-weight: bold;
+}
+.btn-lg
+{
+	background-color: #000000;
+	border-color: #ffffff;
 }
 .thumbnail
 {
