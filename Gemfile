@@ -19,6 +19,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.3'
 #gem 'image_zoomer'
 gem 'elevatezoom-rails'
+gem 'yaml_db'
 
 group :development, :test do
   gem 'sqlite3'

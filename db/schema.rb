@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160227135902) do
+ActiveRecord::Schema.define(version: 20160228080933) do
 
   create_table "categories", force: :cascade do |t|
     t.string   "name"
@@ -52,6 +52,14 @@ ActiveRecord::Schema.define(version: 20160227135902) do
     t.integer  "image5_file_size"
     t.datetime "image5_updated_at"
     t.string   "site"
+    t.integer  "seller_id"
+  end
+
+  create_table "sellers", force: :cascade do |t|
+    t.string "sellername"
+    t.string "storename"
+    t.string "location"
+    t.text   "description"
   end
 
 end

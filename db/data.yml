@@ -1,0 +1,594 @@
+
+---
+categories:
+  columns:
+  - id
+  - name
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Health+Lifestyle
+    - '2016-02-21 16:51:47.690876'
+    - '2016-02-21 16:51:47.690876'
+  - - 2
+    - GAMING
+    - '2016-02-21 16:52:58.702415'
+    - '2016-02-21 16:52:58.702415'
+  - - 3
+    - WEARABLE TECH
+    - '2016-02-21 16:53:16.932142'
+    - '2016-02-21 16:53:16.932142'
+  - - 4
+    - SMARTPHONES
+    - '2016-02-21 16:53:36.947366'
+    - '2016-02-22 02:43:11.934998'
+  - - 5
+    - MEDIA
+    - '2016-02-21 16:53:43.296238'
+    - '2016-02-21 16:53:43.296238'
+  - - 7
+    - GEEK CULTURE
+    - '2016-02-21 19:09:49.921456'
+    - '2016-02-27 14:01:46.117556'
+
+---
+listings:
+  columns:
+  - id
+  - name
+  - price
+  - condition
+  - image_file_name
+  - image_content_type
+  - image_file_size
+  - image_updated_at
+  - feature1
+  - feature2
+  - feature3
+  - image2_file_name
+  - image2_content_type
+  - image2_file_size
+  - image2_updated_at
+  - image3_file_name
+  - image3_content_type
+  - image3_file_size
+  - image3_updated_at
+  - image4_file_name
+  - image4_content_type
+  - image4_file_size
+  - image4_updated_at
+  - image5_file_name
+  - image5_content_type
+  - image5_file_size
+  - image5_updated_at
+  - site
+  records: 
+  - - 1
+    - Captain America Shield iPhone 6 case
+    - 15.99
+    - New and Unused
+    - listing_1.jpeg
+    - image/jpeg
+    - 212460
+    - '2016-02-24 10:42:01.504108'
+    - Made with advanced trans-mat thermal transfer technology wherein the case produce
+      razor sharp prints of ultra-superior quality with supreme touch experience which
+      enhances the grip.
+    - Hard shell construction and the matte finish acts as a perfect catalyst to showcase
+      the immaculate graphics of your phone case giving the perfect stylish makeover
+      and protection that your phone needs!!
+    - The images represent actual product though color of the image and product may
+      slightly differ due to your monitor settings.
+    - listing_1.jpeg
+    - image/jpeg
+    - 212460
+    - '2016-02-26 18:02:05.393761'
+    - listing_1.jpeg
+    - image/jpeg
+    - 212460
+    - '2016-02-26 18:02:05.950083'
+    - listing_1.jpeg
+    - image/jpeg
+    - 212460
+    - '2016-02-26 18:02:06.385323'
+    - listing_1.jpeg
+    - image/jpeg
+    - 212460
+    - '2016-02-26 18:02:06.830238'
+    - http://bit.ly/1mV5ewb
+  - - 2
+    - Evil Grin (DKRL) (Sky Blue Melange)
+    - 19.59
+    - New and Unused
+    - Listing_5.jpg
+    - image/jpeg
+    - 29642
+    - '2016-02-24 11:32:13.300054'
+    - Blue knitted sweatshirt, has a panelled hood with a drawstring fastening, long
+      sleeves,two insert pockets and a ribbed hemline
+    - 'Regular Fit: Take your usual size'
+    - Meant for anyone who is a diehard fan of the Joker
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - bit.ly/1TD7N47
+  - - 3
+    - 'Talk to the Hand: Iron Edition'
+    - 8.1
+    - Slightly used
+    - Listing_9.png
+    - image/png
+    - 155752
+    - '2016-02-24 11:33:44.305904'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 4
+    - Deadpool Laptop Skin
+    - 5.29
+    - New and Unused
+    - Listing_13.png
+    - image/png
+    - 78421
+    - '2016-02-24 11:35:03.725289'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 5
+    - Merc With A Mouth T-Shirt
+    - 8.18
+    - Slightly used
+    - Listing_10.png
+    - image/png
+    - 208654
+    - '2016-02-24 14:57:42.925614'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 6
+    - Batman Logo Black Tee For Women
+    - 8.18
+    - New and Unused
+    - Listing_3.jpg
+    - image/jpeg
+    - 27633
+    - '2016-02-24 14:58:41.846645'
+    - "Batman Logo Black Tee For Women.\r\nFabric: 100% Cotton biowashed gsm 130-140."
+    - 'Wash care: Wash in Cold Water, Use Mild Detergent, Dry in Shade, Do Not Iron
+      Directly Or Scrub on Print, Do Not Bleach, Do Not Tumble Dry.'
+    - "Please note: The images represent actual product though color of the image
+      and product may slightly differ due to your monitor settings.\r\n"
+    - listing3(1).jpg
+    - image/jpeg
+    - 57120
+    - '2016-02-26 17:39:35.203240'
+    - listing3(2).jpg
+    - image/jpeg
+    - 43279
+    - '2016-02-26 17:39:36.182092'
+    - listing3(3).jpg
+    - image/jpeg
+    - 64534
+    - '2016-02-26 17:39:36.514967'
+    - 
+    - 
+    - 
+    - 
+    - bit.ly/1VBMJsB
+  - - 7
+    - Batman Vs Superman Artwork
+    - 42.29
+    - New and Unused
+    - Listing_16.png
+    - image/png
+    - 222364
+    - '2016-02-24 15:00:05.734478'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 8
+    - Blue Superman (SL) Full Sleeve T-Shirt
+    - 9.75
+    - New and Unused
+    - Listing_8.jpg
+    - image/jpeg
+    - 24809
+    - '2016-02-24 15:01:21.900441'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 9
+    - Wolverine Dark Claws iPhone 6 case
+    - 14.73
+    - New and Unused
+    - Listing_2.jpeg
+    - image/jpeg
+    - 167096
+    - '2016-02-24 15:08:08.446559'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 10
+    - Batman Laptop Skin
+    - 5.73
+    - New and Unused
+    - Listing_15.png
+    - image/png
+    - 100267
+    - '2016-02-24 15:11:51.490352'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 11
+    - Dark Knight (2 color) (BL) (Red)
+    - 8.11
+    - New and Unused
+    - Listing_6.jpg
+    - image/jpeg
+    - 44131
+    - '2016-02-24 15:13:30.680208'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 12
+    - Straight Outta Gotham Shirt
+    - 8.18
+    - Slightly used
+    - Listing_11.png
+    - image/png
+    - 178810
+    - '2016-02-24 15:14:55.521008'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 13
+    - The Otherside
+    - 8.18
+    - Slightly used
+    - Listing_12.png
+    - image/png
+    - 154231
+    - '2016-02-24 15:16:35.892571'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 14
+    - Dark Knight Men's Full Sleeve T-Shirt
+    - 9.75
+    - New and Unused
+    - Listing_7.jpg
+    - image/jpeg
+    - 19993
+    - '2016-02-24 15:18:28.394043'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 15
+    - Joker Poster
+    - 3.26
+    - New and Unused
+    - Listing_14.png
+    - image/png
+    - 136236
+    - '2016-02-24 15:20:48.180640'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 16
+    - Batman Bane Minimal - Decal For Macbook
+    - 11.45
+    - New and Unused
+    - Listing_4.jpeg
+    - image/jpeg
+    - 62157
+    - '2016-02-24 15:21:37.297185'
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - - 17
+    - Iron Man Mark XLII, Multi Color
+    - 605.09
+    - New and Unused
+    - listing_17.jpg
+    - image/jpeg
+    - 85148
+    - '2016-02-26 21:53:58.669874'
+    - "Authentic likeness of Mark XLII from Iron Man 3\r\nApproximately 31 centimeter
+      tall with over 36 points of articulation"
+    - "Features battle damaged head sculpt with helmet, featuring authentic likeness
+      of Robert Downey Jr. as Mark XLII\r\nIncludes 3 interchangeable palms, regular
+      armor, and battle armor"
+    - Button cell batteries required (included)
+    - listing_17(1).jpg
+    - image/jpeg
+    - 95644
+    - '2016-02-26 21:53:59.297082'
+    - listing_17(2).jpg
+    - image/jpeg
+    - 98105
+    - '2016-02-26 21:53:59.617294'
+    - listing_17(3).jpg
+    - image/jpeg
+    - 110092
+    - '2016-02-26 21:53:59.968971'
+    - listing_17(4).jpg
+    - image/jpeg
+    - 117557
+    - '2016-02-26 21:54:00.306087'
+    - " http://goo.gl/0q4Rtm"
+
+---
+categories_listings:
+  columns:
+  - category_id
+  - listing_id
+  records: 
+  - - 7
+    - 1
+  - - 7
+    - 2
+  - - 7
+    - 3
+  - - 7
+    - 4
+  - - 7
+    - 5
+  - - 7
+    - 6
+  - - 7
+    - 7
+  - - 7
+    - 8
+  - - 7
+    - 9
+  - - 7
+    - 10
+  - - 7
+    - 11
+  - - 7
+    - 12
+  - - 7
+    - 13
+  - - 7
+    - 14
+  - - 7
+    - 15
+  - - 7
+    - 16
+  - - 7
+    - 17
