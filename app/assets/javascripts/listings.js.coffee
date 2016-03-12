@@ -5,6 +5,6 @@ $ ->
   	scrollZoom: true
 $ ->
 	$('.zoom2').elevateZoom
-  	zoomWindowPosition: 16
-  	borderSize: 1
-  	scrollZoom: true
+	zoomWindowPosition: 16
+	borderSize: 1
+	scrollZoom: true

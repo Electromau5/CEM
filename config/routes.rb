@@ -1,9 +1,11 @@
 Rails.application.routes.draw do
-  root 'pages#landing'
+  post '/rate' => 'rater#create', :as => 'rate'
+  root 'categories#index'
 
   get 'pages/hiw'
   resources :categories
   resources :listings
+  resources :posts
 
   get 'addseller', to: 'sellers#new'
   resources :sellers, except:[:new]

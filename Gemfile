@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "2.1.2"
+ruby "2.2.1"
 
 gem 'rails', '4.2.3'
 gem 'sass-rails', '~> 5.0'
@@ -20,6 +20,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.3'
 #gem 'image_zoomer'
 gem 'elevatezoom-rails'
 gem 'yaml_db'
+gem 'ratyrate', '~> 1.2', '>= 1.2.2.alpha'
 
 group :development, :test do
   gem 'sqlite3'

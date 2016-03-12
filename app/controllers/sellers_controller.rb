@@ -35,7 +35,7 @@ class SellersController < ApplicationController
 	end
 
 	def show
-		#@seller_listings = @seller.listings
+		@seller_listings = @seller.listings
 	end	
 
 	def destroy

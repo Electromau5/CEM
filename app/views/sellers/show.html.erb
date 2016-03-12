@@ -1,0 +1,4 @@
+<h1>Welcome to <%= @seller.storename %>'s Store </h1>
+	<h2>This seller has <%= pluralize(@seller_listings.count, "product") if @seller_listings %> for sale</h2>
+		<%= link_to 'Add', new_listing_path %>
+<%= render 'listings/listing', obj: @seller_listings %>
